@@ -1,0 +1,11 @@
+{
+  "name": "bg-stremio-addon",
+  "version": "1.0.0",
+  "description": "bg tvs streaming",
+  "main": "index.js",
+  "author": "hukuuu@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "stremio-addons": "latest"
+  }
+}
